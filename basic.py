@@ -1,5 +1,7 @@
 # python programming languge 
-print ("hello world ")
+# print ("hello world ")
 # comments in python
- 
- # this is comment sign in python  
+
+  #Datatypes 
+
+type("Hello")
